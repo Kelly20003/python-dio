@@ -66,7 +66,7 @@ Para executar o sistema, você precisa ter o Python 3 instalado em sua máquina.
 
 ## 👨‍💻 Autor
 
-Este projeto foi desenvolvido por **[Seu Nome Aqui]**.
+Este projeto foi desenvolvido por **Kelly e a equipe da DIO**.
 
-* **LinkedIn:** `https://www.linkedin.com/in/seu-usuario/`
-* **GitHub:** `https://github.com/seu-usuario`
+* **LinkedIn:** `www.linkedin.com/in/kelly-antunes77`
+
